@@ -6,7 +6,7 @@
 
 
 body{
-    background-image: url(https://github.com/BeatrizVargas/LoginDesign/blob/master/img/fondo.svg);
+    background-image: url("../img/fondo.svg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
