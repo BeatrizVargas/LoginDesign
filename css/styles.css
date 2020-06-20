@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body{
+    background-image: url("../img/fondo.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.ladoInformativo {
+    height: 100%;    
+    margin: auto;
+      
+}
+
+.loginTextoPrincipal{    
+    padding: 60px;
+    color: #000000;
+}
+
+
+#contenedorPrincipal{
+    margin-top: 5%;    
+    height: auto;    
+    box-shadow: -1px 1px 50px 5px black;   
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.589) ;
+}
+
+.label{
+    color: #ffffff;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #02afff;
+}
+
+h2{
+    color: #054f6d;
+    
+}
+
+.formularioLogin{
+    background-color: rgba(6, 59, 83, 0.534);
+    padding-top: 5%;
+    padding-bottom: 2.5%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+small a{
+    color: #054f6d;
+    text-decoration: none;
+}
+
+small a:hover{
+    color: #054f6d;
+    text-decoration: none;
+}
